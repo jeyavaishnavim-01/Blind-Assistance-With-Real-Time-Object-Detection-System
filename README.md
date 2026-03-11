@@ -6,9 +6,9 @@ This project presents a computer vision-based solution to assist visually impair
 
 **Tech Stacks**
 
-1. Language: Python 3.10 (The core engine).
+1. Language: Python 3.14 (The core engine).
 2. AI Framework: YOLOv8 by Ultralytics (A Deep CNN framework that identifies objects).
-3. Libraries: Numpy, PyTorch.
+3. Libraries: Numpy, Matplotlib, PyTorch, Scipy.
 4. Computer Vision Framework: OpenCV (Handles the camera feed and visual processing).
 5. Audio Engine: pyttsx3 (Offline Text-to-Speech library).
 6. Concurrency: Threading & Queue (Python’s built-in libraries for "No-Lag" performance).
